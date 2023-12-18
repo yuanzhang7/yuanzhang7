@@ -12,6 +12,4 @@ Welcome to my GitHub. I am currently a Ph.D. student in the Department of Comput
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yuanzhang7&show_icons=true&theme=default#gh-light-mode-only&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuanzhang7&layout=compact&langs_count=8&theme=default#gh-light-mode-only"/>
 </p>
