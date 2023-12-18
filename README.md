@@ -1,8 +1,6 @@
 ### Hello friends, I'm Yuan Zhang! 👋
 
-[![](https://img.shields.io/badge/Homepage-blue?&style=flat-square&logo=internet-explorer&logoColor=white)](https://yaoleiqi.github.io/)
-[![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=43lNKkcAAAAJ&hl=zh-CN)
-[![](https://img.shields.io/github/stars/YaoleiQi?style=flat-square&logo=github&label=Github%20Stars&labelColor=gray&color=gray)](https://github.com/YaoleiQi)
+[![](https://img.shields.io/badge/Homepage-blue?&style=flat-square&logo=internet-explorer&logoColor=white)](https://yuanzhang7.github.io/)
 
 <!--
 [![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yaoyao-liu/yaoyao-liu.github.io/google-scholar-stats/gs_data_shieldsio.json?&style=flat-square&logo=google-scholar&logoColor=white&label=Google%20Scholar%20Citations&labelColor=4984e9&color=4984e9&)](https://scholar.google.com/citations?user=Uf9GqRsAAAAJ)
